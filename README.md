@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Valerian Coelho! 👋
 
-<!--
-**valerian-2004/valerian-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Machine Learning Enthusiast | DevOps Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a **Computer Engineering student (Final Year)** passionate about **backend development, machine learning, DevOps, and system design**. I have experience working with **C++, Python, TensorFlow, and Rust**, and I am currently exploring **GitLab CI/CD and cloud deployments**. 
+
+### **🔧 Technologies I Work With:**
+- **Backend**: Python, Node.js
+- **Frontend**: Svelte, React Native
+- **DevOps**: GitLab CI/CD, Docker, Kubernetes, AWS
+- **Machine Learning**: TensorFlow, Scikit-learn, ResNet, Librosa
+- **Databases**: MySQL, SQLite
+- **Embedded Systems**: OBD-II, PCAN, UDS Diagnostics
+
+---
+
+## 🌱 Currently Learning
+- **DevOps & CI/CD**: Setting up GitLab for team collaboration.
+- **Cloud Deployment**: Docker, Kubernetes, AWS/GCP.
+- **Rust Programming**: Exploring performance optimization.
+
